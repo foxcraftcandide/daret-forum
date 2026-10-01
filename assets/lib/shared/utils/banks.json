@@ -1,0 +1,44 @@
+{
+    "banks": [
+        {
+            "name": "Barid Bank",
+            "image": "assets/images/banks/barid.png"
+        },
+        {
+            "name": "CIH Bank",
+            "image": "assets/images/banks/cih.png"
+        },
+        {
+            "name": "Banque Populaire",
+            "image": "assets/images/banks/chaabi.png"
+        },
+        {
+            "name": "Attijariwafa bank",
+            "image": "assets/images/banks/attijari.jpeg"
+        },
+        {
+            "name": "Société Générale",
+            "image": "assets/images/banks/sg.png"
+        },
+        {
+            "name": "Bank of Africa",
+            "image": "assets/images/banks/bank_africa.jpeg"
+        },
+        {
+            "name": "BMCE",
+            "image": "assets/images/banks/bmce.jpeg"
+        },
+        {
+            "name": "BMCI",
+            "image": "assets/images/banks/bmci.jpeg"
+        },
+        {
+            "name": "Credit du maroc",
+            "image": "assets/images/banks/cdm.png"
+        },
+        {
+            "name": "Credit agricole",
+            "image": "assets/images/banks/credit_agricole.png"
+        }
+    ]
+}
